@@ -1,2 +1,0 @@
-# puer-car
-car سيارات
