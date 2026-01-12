@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../cars website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "["
+	}
+}
